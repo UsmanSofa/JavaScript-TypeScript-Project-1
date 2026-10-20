@@ -1,0 +1,10 @@
+let x:number = 6;
+let y:number = 8;
+let z:number;
+console.log(`Value of X is:- ${x}`);
+console.log(`Value of Y is:- ${y}`);
+z = x + y;
+x = z - x;
+y = z - y;
+console.log(`Value of X is:- ${x}`);
+console.log(`Value of Y is:- ${y}`);

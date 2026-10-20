@@ -1,0 +1,12 @@
+let v1:any = 10;
+console.log(v1);
+console.log(typeof(v1));
+v1 = "Usman";
+console.log(v1);
+console.log(typeof(v1));
+v1 = true;
+console.log(v1);
+console.log(typeof(v1));
+v1 = 23.4;
+console.log(v1);
+console.log(typeof(v1));
